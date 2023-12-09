@@ -1,0 +1,60 @@
+.abouth1{
+     font-size: 100px ;
+     margin-left: 50pc;
+     font-family: 'Nanum Myeongjo', serif;
+font-family: 'Roboto Condensed', sans-serif;
+color:red;
+background-color: 
+
+
+
+}
+
+img{
+    height: 30pc;
+    width: 20pc;
+}
+
+.aboutp1{
+    position: absolute;
+    margin-left: 35pc;
+    margin-right: 90pc;
+    background-color:;
+    padding: 2px;
+
+
+
+
+}
+
+.aboutp2{
+    position:absolute;
+   margin-top: 35pc;
+    margin-left: 35pc;
+    margin-right: 90pc;
+    background-color: rgb(58, 190, 190);
+
+
+}
+
+.abouttext{
+
+background-color: ;
+margin-left: 60pc;
+margin-top: 5pc;
+padding: 10pc;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+    
+}
+.headerus{
+    font-size: 90px;
+    margin-bottom: 150pc;
+    margin-top: 0pc;
+    position: absolute;
+    font-family: 'Nanum Myeongjo', serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+
+}
